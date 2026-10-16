@@ -1,4 +1,4 @@
-![Principal](/img/yo.png)
+![Principal](img/yo.png)
 
 
 #  🎯   Hola, soc Aitor
