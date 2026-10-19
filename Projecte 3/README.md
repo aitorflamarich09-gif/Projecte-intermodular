@@ -12,9 +12,9 @@ Nom: Aitor Flamarich Palacios
 
 Número de grup: 2
 
-Nom del company/a: [Posa el nom del teu company/a aquí]
+Nom del company/a: Jean David Colombo Flores
 
-Classe: Jean David Colombo Flores
+Classe: SMXA2
 
 ## Enunciat del projecte
 
